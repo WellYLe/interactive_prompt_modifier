@@ -1,0 +1,8 @@
+{
+    "deepseek_api_key": "sk-e5ca96da010141e383134ca16f03b1cd",
+    "deepseek_base_url": "https://api.deepseek.com/v1",
+    "target_llm_model": "deepseek-chat",
+    "judge_llm_model": "deepseek-chat",
+    "modification_assistant_llm_model": "deepseek-chat",
+    "evaluation_method": "rule_based"
+}
